@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# llma.cpp folder
+chapter2/llama.cpp/
+
+# Large model weights / local directories
+chapter2/directory_on_my_pc/
