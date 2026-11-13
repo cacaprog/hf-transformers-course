@@ -14,3 +14,6 @@ chapter2/llama.cpp/
 
 # Large model weights / local directories
 chapter2/directory_on_my_pc/
+
+# Obisidian files
+.obsidian
