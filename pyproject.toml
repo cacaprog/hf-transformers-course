@@ -1,0 +1,16 @@
+[project]
+name = "transformers-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.15.0",
+    "llama-cpp-python>=0.3.36",
+    "notebook>=7.6.3",
+    "openai>=3.50.0",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "transformers>=5.17.0",
+    "vllm>=0.33.0",
+]
